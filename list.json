@@ -78,5 +78,9 @@
   "133-2": {
     "keyword": "RR88 LOGIN",
     "targetUrl": "login.cn.com"
+  },
+  "21-2": {
+    "keyword": "nohu",
+    "targetUrl": "dom.ae.org"
   }
 }
