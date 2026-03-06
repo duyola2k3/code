@@ -1,4 +1,8 @@
 {
+  "121": {
+    "keyword": "OK365",
+    "targetUrl": "ok365.org"
+  },
   "120-2": {
     "keyword": "GK88",
     "targetUrl": "gk88.kim"
@@ -118,5 +122,9 @@
   "8-2": {
     "keyword": "U888",
     "targetUrl": "u8886.shop"
+  },
+  "121-2": {
+    "keyword": "ok365",
+    "targetUrl": "ok365.org"
   }
 }
